@@ -30,7 +30,7 @@ for i in range(total):
 print(sum)
 # thath the tortal sum of ep2 
 
-evls = []  # get the odd numbers in list
+evls = []  # get the odd numbers in List
 for i in ls:
     if (i % 2) == 0:
         evls.append(i) 
